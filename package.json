@@ -1,0 +1,17 @@
+{
+  "name": "meroloksewa",
+  "version": "1.0.0",
+  "description": "api testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "meroloksewa"
+  ],
+  "author": "Arjun Ghimire",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
